@@ -5,5 +5,5 @@ This repository contains an example implementation of Beginner's course using Se
 
 ## Links
 
-[Training slides](resources/training_module2.pdf)
-[About browser automation](https://robocorp.com/docs/development-guide/browser)
+- [Training slides](resources/training_module2.pdf)
+- [About browser automation](https://robocorp.com/docs/development-guide/browser)
