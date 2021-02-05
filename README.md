@@ -1,7 +1,7 @@
-# Training - RPA Developer: Module 2 Your first browser robot
+# Training - RPA Developer
+## Module 2 Your first browser robot
 
 This repository contains an example implementation of Beginner's course using Selenium Browser library.
-
 
 ## Links
 
